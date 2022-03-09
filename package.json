@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "pako": "^1.0.4"
+    "pako": "^2.0.4"
   },
   "type":"module"
 }
